@@ -1,3 +1,5 @@
+# python3 product_of_all_other_numbers/test_product_of_all_other_numbers.py -v
+
 '''
 Input: a List of integers
 Returns: a List of integers

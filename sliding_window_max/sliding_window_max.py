@@ -1,3 +1,5 @@
+# python3 sliding_window_max/test_sliding_window_max.py -v
+
 '''
 Input: a List of integers as well as an integer `k` representing the size of the sliding window
 Returns: a List of integers

@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# python3 making_change/test_making_change.py -v
+
 import sys
 
 def making_change(amount, denominations):

@@ -1,3 +1,5 @@
+# python3 single_number/test_single_number.py -v
+
 '''
 Input: a List of integers where every int except one shows up twice
 Returns: an integer
